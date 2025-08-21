@@ -1,5 +1,5 @@
-# from-the-cloud-app
-This program takes user input for a city and returns weather information
+# from-the-cloud
+This program takes user input for a city and returns weather information.
 
 From the project root, activate your virtual environment and run the command `python3 main.py`
 
