@@ -1,5 +1,6 @@
 from get_weather_from_input import get_weather
 from create_response import create_gpt_response
+import streamlit as st
 
 
 """
@@ -19,8 +20,3 @@ def run():
     response = create_gpt_response(weather_data)
 
     print(response)
-
-
-if __name__ == "__main__":
-    run()
-    

@@ -8,3 +8,7 @@ You will be prompted to enter a city name, then the program will respond with a 
 If you really want to get creative, feel free to edit the `SYSTEM_INSTRUCTION` variable in the `create_response.py` file to tweak how you'd like the weather responses to be.
 
 Enjoy!
+
+-----
+
+To use as a streamlit app, simply run `streamlit run streamlit_app.py` from the project root and interact with the app through your browser.
