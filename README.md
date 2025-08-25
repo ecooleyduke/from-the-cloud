@@ -1,7 +1,7 @@
 # from-the-cloud
 This program takes user input for a city and returns weather information.
 
-From the project root, activate your virtual environment and run the command `python3 main.py`
+From the project root, activate your virtual environment, install your package requirements by running `pip install -r requirements.txt`, and run the command `python3 main.py`
 
 You will be prompted to enter a city name, then the program will respond with a fun and interesting response using real-time weather data for that city!
 
